@@ -1,7 +1,6 @@
 ### Howdy! 👋
-
-<img width="26%" align="left" alt="Github" src="IMG/error.gif" />
-
-<img width="74%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<p align="center">
+  <img alt="error sad life" src="IMG/error.gif" width="20%" />
+  <img alt="Someone running for their life" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="69%"/>
+</p>
 
