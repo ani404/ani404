@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 [![Visits Badge](https://badges.pufler.dev/visits/ani404/ani404)](https://josedromero.com)
 <!-- **ani404/ani404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
