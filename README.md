@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-
+[![Visits Badge](https://badges.pufler.dev/visits/ani404/ani404)](https://josedromero.com)
 <!-- **ani404/ani404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
